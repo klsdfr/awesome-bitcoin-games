@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="bitcoin-games-og-image.png" alt="Awesome Bitcoin Games — a curated list of Bitcoin-themed games" width="100%">
+
 # ⚡ Awesome Bitcoin Games
 
 **A hand-curated list of games where Bitcoin is the _theme_ — built to play for fun, not to farm crypto.**
