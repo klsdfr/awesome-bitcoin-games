@@ -46,6 +46,7 @@ tagged with a badge that tells you exactly how Bitcoin is involved.**
 ⭐ = **editor's pick** (the standouts actually worth your time).
 
 ## Contents
+- [⭐ Start here](#-start-here)
 - [🟧 Bitcoin-native](#-bitcoin-native)
 - [🎁 Earn real sats](#-earn-real-sats)
 - [⛓ On-chain](#-on-chain)
@@ -53,6 +54,20 @@ tagged with a badge that tells you exactly how Bitcoin is involved.**
 - [🪦 Historical](#-historical)
 - [How we classify games](#how-we-classify-games)
 - [Contributing](#contributing)
+
+## ⭐ Start here
+New here? These are the standouts worth a click first — one per angle, so you see the full
+range from "earn real sats" to "just a great Bitcoin joke":
+
+- 🎨 **[Bitcoinia](https://bitcoinia.org)** — a free, instant-play 50-level Bitcoin
+  arcade-puzzler: push ledger blocks, stack sats, climb a cheat-proof leaderboard.
+  `🏆 Leaderboard` _(our game — yes, we built the list too)_
+- ⚡ **[Lightning Poker](https://www.lightning-poker.com)** — real-sats No-Limit Hold'em
+  where satoshis are the chips.
+- ⛓ **[DOOM on Bitcoin](https://ordinals.com/inscription/466)** — the whole game inscribed
+  on a single satoshi.
+- 🎁 **[THNDR Games](https://www.thndr.games/bitcoin-games)** — polished arcade titles that
+  pay out real sats.
 
 ---
 
