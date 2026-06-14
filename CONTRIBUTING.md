@@ -4,27 +4,33 @@ Thanks for helping keep this the best list of Bitcoin games!
 
 ## Adding a game
 1. Fork and edit `README.md`.
-2. Put the entry in the **most fitting section**, keep the existing format:
+2. Put the entry in the section that matches its **primary badge** (`🟧 Bitcoin-native`,
+   `🎁 Earn real sats`, `⛓ On-chain`, or `🎨 BTC-themed`). Keep the existing format —
+   relevance badge(s) first, platform tags after:
    ```
-   - **[Name](https://official-link)** — One concise factual sentence. `🌐 Browser` `🆓 Free` _(optional studio note)_
+   - **[Name](https://official-link)** — One concise factual sentence. `🎨 BTC-themed` `🌐 Browser` `🆓 Free` _(optional studio note)_
    ```
-3. Use the right **labels** (see the Labels table in the README): `🌐 Browser`,
-   `🎮 Steam`, `📱 Mobile`, `🎲 Tabletop`, `🆓 Free`, `💸 Paid`, `📚 Learn`,
-   `🛠 Open Source`, `🏆 Leaderboard`, `⚡ Earns sats`.
+3. Tag it with the right **badges** (see the Badges table in the README):
+   - **How Bitcoin shows up:** `🟧 Bitcoin-native`, `⚡ Lightning`, `🎁 Rewards`,
+     `⛓ On-chain`, `🎨 BTC-themed` (use as many as truly apply).
+   - **Platform & access:** `🌐 Browser`, `🎮 Steam`, `📱 Mobile`, `🎲 Tabletop`,
+     `🆓 Free`, `💸 Paid`, `📚 Learn`, `🛠 Open-source`, `🏆 Leaderboard`.
 4. Open a pull request with a one-line reason.
 
-## What belongs where
-- **Main sections = "themed games" you play for fun** — Bitcoin is the setting, story,
-  or joke; the in-game coins are **not** real.
-- **Games that pay out real sats** (prize draws / Lightning rewards) go **only** in the
-  [Earn real sats](README.md#-earn-real-sats-lightning) section — never mixed into the
-  themed lists.
-- **Migrated/dead** projects go in **Historical**, not deleted.
+## The inclusion rule
+Bitcoin must be **meaningfully part of the experience** — core gameplay, the in-game
+economy, payments, or real rewards, **or** a genuine, specific Bitcoin theme.
 
-## Inclusion criteria
+- **Specifically Bitcoin**, not generic "crypto." No NFT/web3/play-to-earn-token games,
+  no shitcoin casinos, nothing where Bitcoin is incidental.
+- **Games that pay out real sats** go **only** in the
+  [Earn real sats](README.md#-earn-real-sats) section — never blurred into the rest.
+- **If a link is only loosely related, vague, or promotional**, either leave it out or
+  mark it `🎨 BTC-themed` — don't oversell it as Bitcoin-native.
+- **Migrated or dead** projects go in [Historical](README.md#-historical), not deleted.
+
+## Link & format rules
 - **Live.** The link works and the game is currently playable/available.
-- **Bitcoin-themed.** Specifically Bitcoin (not generic "crypto"). Themed, educational,
-  or satirical all count.
 - **Real, official link.** Homepage, store page, or repo — **no affiliate/referral
   links**, no link shorteners.
 - **One game per line**, neutral one-sentence description. No marketing fluff.
@@ -35,5 +41,5 @@ Maintainers decide; don't add ⭐ to your own submission in the PR.
 
 ## Quality bar
 Keep it honest and useful. A short, accurate list beats a long one padded with dead or
-jam-tier projects. Maintainers may move stale entries to **Historical** or drop
-unverifiable ones.
+loosely-related projects. Maintainers may re-badge entries, move stale ones to
+**Historical**, or drop unverifiable ones.
