@@ -10,7 +10,7 @@
 [![License: CC0](https://img.shields.io/badge/license-CC0%201.0-F7931A.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-22c55e.svg)](CONTRIBUTING.md)
 ![Scope](https://img.shields.io/badge/scope-real%20Bitcoin%20link-F7931A.svg)
-![Games](https://img.shields.io/badge/games-25%2B-22e0e6.svg)
+![Games](https://img.shields.io/badge/games-30%2B-22e0e6.svg)
 
 </div>
 
@@ -51,6 +51,7 @@ tagged with a badge that tells you exactly how Bitcoin is involved.**
 - [🎁 Earn real sats](#-earn-real-sats)
 - [⛓ On-chain](#-on-chain)
 - [🎨 BTC-themed](#-btc-themed)
+- [📱 Mobile apps](#-mobile-apps)
 - [🪦 Historical](#-historical)
 - [How we classify games](#how-we-classify-games)
 - [Contributing](#contributing)
@@ -150,6 +151,72 @@ Bitcoin is the **setting, story, or joke** — the in-game coins aren't real. Pl
   Bitcoin-mining board game for families. `🎨 BTC-themed` `🎲 Tabletop` _(Free Market Kids)_
 - **[Mission Bitcoin](https://www.amazon.com/dp/B0D4TND95G)** — Kid-friendly board game:
   collect 21 "bitcoin" tokens. `🎨 BTC-themed` `🎲 Tabletop` _(LFGO)_
+
+---
+
+## 📱 Mobile apps
+Bitcoin games you actually install — direct **App Store / Google Play** links, with live
+store ratings where we could verify them. **This is a platform cross-cut:** the Lightning/
+rewards titles below also belong to the sections above; here they're bundled so you can grab
+a phone game in one tap. Ratings are store figures seen **June 2026** and will drift — and a
+high store score ≠ guaranteed payout, so withdraw small first on the "earn sats" apps.
+
+### ⚡ Earn real sats (Lightning rewards)
+- ⭐ **[THNDR Games](https://apps.apple.com/developer/thndr-games/id1487339631)** — the leading
+  Lightning game studio; every title funnels free tickets into real-sats BTC prize draws:
+  - **Club Bitcoin: Solitaire** — classic solitaire, hourly Lightning draws.
+    [iOS](https://apps.apple.com/us/app/club-bitcoin-solitaire/id1619992672) ·
+    [Android](https://play.google.com/store/apps/details?id=com.thndrgames.solitaire)
+    `⚡ Lightning` `🎁 Rewards` `📱 Mobile` `🆓 Free` _(iOS 4.7★ · 2.1K)_
+  - **Tetro Tiles – Block Puzzle** — Tetris-style; daily BTC draw.
+    [iOS](https://apps.apple.com/us/app/tetro-tiles-block-puzzle/id1662479953) ·
+    [Android](https://play.google.com/store/apps/details?id=com.thndrgames.blocks)
+    `⚡ Lightning` `🎁 Rewards` `📱 Mobile` `🆓 Free` _(iOS 4.8★ · 1K)_
+  - **Clinch – PvP Bitcoin Games** — skill-based PvP wagering with real BTC.
+    [iOS](https://apps.apple.com/us/app/clinch-pvp-bitcoin-games/id6479753271)
+    `⚡ Lightning` `🎁 Rewards` `📱 Mobile` _(iOS 4.7★ · 146)_
+- ⭐ **[Idle Mine! — Tycoon Mining Game](https://apps.apple.com/us/app/idle-mine-tycoon-mining-game/id6689514329)** —
+  Fumb Games' polished idle miner; withdraw real sats via ZBD.
+  [Android](https://play.google.com/store/apps/details?id=com.fumbgames.minersofbitcoin)
+  `🎁 Rewards` `⚡ Lightning` `📱 Mobile` `🆓 Free` _(iOS 4.8★ · 14K)_
+- **[Bitcoin Miner: Idle Tycoon](https://apps.apple.com/us/app/bitcoin-miner-idle-tycoon/id1413770650)** —
+  the OG Fumb idle miner, 7M+ players, real sat payouts via ZBD.
+  [Android](https://play.google.com/store/apps/details?id=com.fumbgames.bitcoinminor)
+  `🎁 Rewards` `⚡ Lightning` `📱 Mobile` `🆓 Free` _(iOS 4.7★ · 52K)_
+- **[Blocks of Bitcoin](https://apps.apple.com/us/app/blocks-of-bitcoin-puzzle-game/id6743409638)** —
+  Fumb block-puzzle, ~3 sats/level via ZBD.
+  [Android](https://play.google.com/store/apps/details?id=com.fumbgames.bitcoinblockstm)
+  `🎁 Rewards` `⚡ Lightning` `📱 Mobile` `🆓 Free` _(iOS 4.6★ · 570)_
+- **[ZBD](https://apps.apple.com/us/app/zbd-earn-bitcoin-rewards/id1484394401)** — Lightning
+  rewards wallet + game hub behind many "earn sats" titles.
+  [Android](https://play.google.com/store/apps/details?id=io.zebedee.wallet)
+  `🎁 Rewards` `⚡ Lightning` `📱 Mobile` _(iOS 4.6★ · 11K; off-store reputation mixed — verify payouts)_
+- **[sMiles](https://apps.apple.com/us/app/smiles-bitcoin-rewards/id1492458803)** — move/play/
+  learn-to-earn suite (Chess, BitJong, Fort Nakamoto).
+  [Android](https://play.google.com/store/apps/details?id=com.smilesbitcoin.smiles)
+  `🎁 Rewards` `⚡ Lightning` `📱 Mobile` _(iOS 4.5★ · 4.7K; Play notably lower — payout/step-tracking complaints)_
+- **[SaruTobi](https://apps.apple.com/us/app/sarutobi-make-the-monkey-fly/id1527644721)** — the
+  **first mobile Bitcoin game (2013)**, relisted as the first iOS game with native ZBD Lightning sats.
+  `⚡ Lightning` `🎁 Rewards` `📱 Mobile` _(iOS only; historic, few ratings)_
+
+### 📚 Learn-to-earn & themed
+- ⭐ **[Yzer — Learn Bitcoin & Finance](https://apps.apple.com/us/app/yzer-learn-bitcoin-finance/id6443545393)** —
+  gamified Bitcoin + finance lessons that pay real sats to any Lightning wallet.
+  [Android](https://play.google.com/store/apps/details?id=io.wizzer.academy)
+  `📚 Learn` `⚡ Lightning` `🎁 Rewards` `📱 Mobile` _(iOS 4.8★ · 81)_
+- **[Simple Bitcoin — Learn & Earn](https://apps.apple.com/us/app/simple-bitcoin-learn-earn/id1487375777)** —
+  Bitcoin-only curriculum; quizzes earn sat spins (paywall for unlimited).
+  [Android](https://play.google.com/store/apps/details?id=com.simplecrypto.applearning.cryptoapp)
+  `📚 Learn` `📱 Mobile` _(iOS 4.8★ · 280)_
+- ⭐ **[Bitcoin Billionaire](https://apps.apple.com/us/app/bitcoin-billionaire/id911117141)** —
+  tap-to-get-rich idle satire; a genuine casual classic.
+  [Android](https://play.google.com/store/apps/details?id=com.noodlecake.bitcoin)
+  `🎨 BTC-themed` `📱 Mobile` `🆓 Free` _(iOS 4.8★ · 19K — Noodlecake)_
+
+> **Left off on purpose:** crash/casino "earn BTC" apps (e.g. *Chicken or Crash*) and
+> near-zero-payout reward apps (*Bitcoin Blast*) — real sats, but casino mechanics or
+> misleading payouts. Pure "Bitcoin mining" idle clickers with **no** real sats are
+> theme-only and don't qualify.
 
 ---
 
