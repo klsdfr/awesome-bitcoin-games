@@ -28,6 +28,11 @@ tagged with a badge that tells you exactly how Bitcoin is involved.**
 > Every entry is **verified live** when added. Dead or migrated projects move to
 > [Historical](#-historical) rather than vanishing — honesty over link-count.
 
+> **📥 Know a Bitcoin game that belongs here?** Submit it via
+> **[Pull Request](CONTRIBUTING.md)** or email **[pr@bitcoinia.org](mailto:pr@bitcoinia.org)**.
+> A **preview image/GIF or a YouTube link** helps it land faster — see how the picks below
+> show theirs.
+
 ## Badges
 
 **How Bitcoin shows up** (the primary label — an entry can carry more than one):
@@ -47,6 +52,7 @@ tagged with a badge that tells you exactly how Bitcoin is involved.**
 
 ## Contents
 - [⭐ Start here](#-start-here)
+- [🎬 Featured previews](#-featured-previews)
 - [🟧 Bitcoin-native](#-bitcoin-native)
 - [🎁 Earn real sats](#-earn-real-sats)
 - [⛓ On-chain](#-on-chain)
@@ -69,6 +75,67 @@ range from "earn real sats" to "just a great Bitcoin joke":
   on a single satoshi.
 - 🎁 **[THNDR Games](https://www.thndr.games/bitcoin-games)** — polished arcade titles that
   pay out real sats.
+
+## 🎬 Featured previews
+The ⭐ editor's picks at a glance. Each image comes from the game's own page/store or a
+gameplay video; every **▶ link points to a real YouTube video** (official trailer where one
+exists, otherwise representative gameplay — labelled honestly). The
+[Bitcoinia](https://bitcoinia.org) clip is our own captured replay.
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://bitcoinia.org"><img src="assets/bitcoinia-replay.webp" alt="Bitcoinia — gameplay replay" width="100%"></a><br>
+⭐ <b><a href="https://bitcoinia.org">Bitcoinia</a></b> — push ledger blocks, stack sats, out-maze the fiat villains across 50 levels. <b>▶ live replay</b> (above)
+</td>
+<td width="50%" valign="top">
+<a href="https://www.lightning-poker.com"><img src="https://www.lightning-poker.com/preview.jpg" alt="Lightning Poker" width="100%"></a><br>
+⭐ <b><a href="https://www.lightning-poker.com">Lightning Poker</a></b> — real-sats No-Limit Hold'em; satoshis are the chips, instant Lightning buy-in.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://ordinals.com/inscription/466"><img src="https://i.ytimg.com/vi/cHyRkVFX5Ew/hqdefault.jpg" alt="DOOM on Bitcoin" width="100%"></a><br>
+⭐ <b><a href="https://ordinals.com/inscription/466">DOOM on Bitcoin</a></b> — a full DOOM clone inscribed on a single satoshi. <a href="https://www.youtube.com/watch?v=cHyRkVFX5Ew">▶ clip</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.thndr.games/bitcoin-games"><img src="https://i.ytimg.com/vi/5k1PtKTRcg4/hqdefault.jpg" alt="THNDR Games" width="100%"></a><br>
+⭐ <b><a href="https://www.thndr.games/bitcoin-games">THNDR Games</a></b> — Lightning arcade titles that pay real sats via free draws. <a href="https://www.youtube.com/watch?v=5k1PtKTRcg4">▶ gameplay</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://store.steampowered.com/app/3692070/One_Mans_Trash/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3692070/e857d294069517d44470a18ec32fa63e0bba5562/header.jpg" alt="One Man's Trash" width="100%"></a><br>
+⭐ <b><a href="https://store.steampowered.com/app/3692070/One_Mans_Trash/">One Man's Trash</a></b> — dig a landfill for a lost "PitCoin" hard drive (the James Howells saga). <a href="https://www.youtube.com/watch?v=tAGKOafAPT0">▶ trailer</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://store.steampowered.com/app/1859290/Crypto_Miner_Tycoon_Simulator/"><img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1859290/header.jpg" alt="Crypto Miner Tycoon Simulator" width="100%"></a><br>
+⭐ <b><a href="https://store.steampowered.com/app/1859290/Crypto_Miner_Tycoon_Simulator/">Crypto Miner Tycoon Simulator</a></b> — build rigs and run a mining business. <a href="https://www.youtube.com/watch?v=esxnaYchmO4">▶ trailer</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://apps.apple.com/us/app/bitcoin-billionaire/id911117141"><img src="https://i.ytimg.com/vi/FB0TJisgng4/hqdefault.jpg" alt="Bitcoin Billionaire" width="100%"></a><br>
+⭐ <b><a href="https://apps.apple.com/us/app/bitcoin-billionaire/id911117141">Bitcoin Billionaire</a></b> — tap-to-get-rich idle-clicker satire (Noodlecake). <a href="https://www.youtube.com/watch?v=FB0TJisgng4">▶ official trailer</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://thebitcoingame.io/"><img src="https://thebitcoingame.io/BTCbackground.jpg" alt="The Bitcoin Game" width="100%"></a><br>
+⭐ <b><a href="https://thebitcoingame.io/">The Bitcoin Game</a></b> — classroom Proof-of-Work sim: pick a nonce, hash, race to a valid block.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://apps.apple.com/us/app/idle-mine-tycoon-mining-game/id6689514329"><img src="https://i.ytimg.com/vi/25ZC8908C3o/hqdefault.jpg" alt="Idle Mine! — Tycoon Mining Game" width="100%"></a><br>
+⭐ <b><a href="https://apps.apple.com/us/app/idle-mine-tycoon-mining-game/id6689514329">Idle Mine!</a></b> — polished idle miner; withdraw real sats via ZBD. <a href="https://www.youtube.com/watch?v=25ZC8908C3o">▶ review</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://apps.apple.com/us/app/yzer-learn-bitcoin-finance/id6443545393"><img src="https://i.ytimg.com/vi/9PmRHoiCLkI/hqdefault.jpg" alt="Yzer — Learn Bitcoin & Finance" width="100%"></a><br>
+⭐ <b><a href="https://apps.apple.com/us/app/yzer-learn-bitcoin-finance/id6443545393">Yzer</a></b> — gamified Bitcoin + finance lessons that pay real sats. <a href="https://www.youtube.com/watch?v=9PmRHoiCLkI">▶ review</a>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -259,8 +326,10 @@ web3 titles, shitcoin casinos, and anything where "Bitcoin" is incidental.
 
 ## Contributing
 PRs welcome — add live, genuinely Bitcoin games with a working **official** link (no
-referral/affiliate links), one concise line, and the right badges. See
-**[CONTRIBUTING.md](CONTRIBUTING.md)**.
+referral/affiliate links), one concise line, and the right badges. Prefer a
+**[Pull Request](CONTRIBUTING.md)**; or email **[pr@bitcoinia.org](mailto:pr@bitcoinia.org)**
+if that's easier. **Bonus:** attach a preview image/GIF or a YouTube link so we can feature
+it. See **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)

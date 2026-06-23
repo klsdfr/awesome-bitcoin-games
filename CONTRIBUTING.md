@@ -17,6 +17,10 @@ Thanks for helping keep this the best list of Bitcoin games!
      `🆓 Free`, `💸 Paid`, `📚 Learn`, `🛠 Open-source`, `🏆 Leaderboard`.
 4. Open a pull request with a one-line reason.
 
+**Not into Git?** Email the game (link + one-line reason) to **pr@bitcoinia.org** and we'll
+add it. Optional but appreciated: a **preview image/GIF or a YouTube link** — the ⭐ picks in
+the README carry previews, and yours can too.
+
 ## The inclusion rule
 Bitcoin must be **meaningfully part of the experience** — core gameplay, the in-game
 economy, payments, or real rewards, **or** a genuine, specific Bitcoin theme.
