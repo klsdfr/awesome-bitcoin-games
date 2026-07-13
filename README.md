@@ -46,7 +46,11 @@ tagged with a badge that tells you exactly how Bitcoin is involved.**
 | `🎨 BTC-themed` | Bitcoin is mainly the **theme or visual reference**, not central |
 
 **Platform & access** (secondary tags): `🌐 Browser` `🎮 Steam` `📱 Mobile` `🎲 Tabletop`
-`🆓 Free` `💸 Paid` `📚 Learn` `🛠 Open-source` `🏆 Leaderboard`
+`🆓 Free` `💸 Paid` `📚 Learn` `🏆 Leaderboard`
+
+**Source & license:** `🛠 Open-source` (repo + license linked where we could confirm one) ·
+`🔒 Closed-source` (proprietary). Untagged means we haven't verified the source yet —
+not a claim either way. Most games here are closed-source; the open ones are the exception.
 
 ⭐ = **editor's pick** (the standouts actually worth your time).
 
